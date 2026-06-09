@@ -1,0 +1,8 @@
+{
+  "name": "fixflow",
+  "version": "1.0.0",
+  "description": "Water Leak Reporting System - Ongwediva",
+  "developer": "Leonard - 225061732",
+  "branch": "feature/login-page",
+  "main": "index.js"
+}
