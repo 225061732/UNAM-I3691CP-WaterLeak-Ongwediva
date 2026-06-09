@@ -1,6 +1,6 @@
 # 🚰 Ongwediva Water Leak & Infrastructure Reporter
 
-> A mobile application enabling residents of Ongwediva to report infrastructure issues directly to the town council in real time.
+> A mobile application enabling residents of Ongwediva to report infrastructure issues directly to the town council in real time. It will help reduce enviroment or residense problems being solved within a short period of time
 
 ---
 
@@ -196,7 +196,7 @@ UNAM-I3691CP-WaterLeak-Ongwediva/
 
 ## 🎓 Academic Context
 
-This project was developed as part of the **I3691CP Computer Programming I** module at the **University of Namibia (UNAM)**, under the supervision of **Mr. Abisai**, Semester 1, 2026. It serves as the group's semester-long application development project, covering the full software development lifecycle from concept to implementation.
+This project was developed as part of the **I3691CP Computer Programming I** module at the **University of Namibia (UNAM)**, under the supervision of **Mr. Abisai**, Semester 1, 2026. It serves as the group's semester-long application development project, covering the full software development lifecycle from concept to implementation. This is to ensure that all facilities around Ongwediva are kept under correct human living standards
 
 ---Updated by Leonard - feature/login-page branch
 
