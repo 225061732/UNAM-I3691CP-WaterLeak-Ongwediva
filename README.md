@@ -198,6 +198,6 @@ UNAM-I3691CP-WaterLeak-Ongwediva/
 
 This project was developed as part of the **I3691CP Computer Programming I** module at the **University of Namibia (UNAM)**, under the supervision of **Mr. Abisai**, Semester 1, 2026. It serves as the group's semester-long application development project, covering the full software development lifecycle from concept to implementation.
 
----
+---Updated by Leonard - feature/login-page branch
 
 *University of Namibia · I3691CP · Group 13 · 2026*
